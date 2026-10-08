@@ -1,0 +1,17 @@
+PORTLOVCHI MUSHUKLAR — 2–10 KISHILIK LAN O‘YINI
+
+1. Asosiy kompyuterga Node.js 22 yoki yangirog‘ini o‘rnating (https://nodejs.org). Bu faqat birinchi tayyorlashda internet talab qiladi.
+2. ZIP faylni alohida papkaga to‘liq chiqaring.
+3. Windows: start.bat ni oching. Mac/Linux: shu papkada node server.mjs buyrug‘ini bajaring.
+4. Hamma bir Wi-Fi yoki hotspotga ulansin.
+5. Oynada chiqqan http://192.168.x.x:3000 (yoki boshqa LAN IP) manzilini do‘stlarning brauzeriga kiriting. Har kim o‘z qurilmasidan o‘ynaydi.
+6. Bittangiz xona yarating, qolganlar 6 belgili kod orqali kirsin. Tayyor tugmasini bosing; xona egasi boshlaydi.
+
+Server kompyuteri va server oynasi ochiq qolsin. Endi internet kerak emas.
+Windows tarmoq ruxsatini so‘rasa, Private/shaxsiy tarmoq uchun ruxsat bering. Guest Wi-Fi va AP isolation qurilmalarni ajratib qo‘yishi mumkin; oddiy Wi-Fi yoki hotspot ishlating.
+Xonalar data/ papkasida saqlanadi; oxirgi harakatdan 24 soat keyin muddati tugaydi. O‘yin davomida shu papkani o‘chirmang. Bitta serverni shu papkadan bir marta ishga tushiring.
+
+QOIDALAR
+Har kim 7 karta va 1 Defuse oladi. Istagancha karta o‘ynang, so‘ng bitta karta torting. Portlovchi mushuk chiqsa Defuse qutqaradi, aks holda o‘yindan chiqasiz. Oxirgi qolgan g‘olib.
+Nope: 10 soniya. Defuse joyi: 90 soniya. Kelajak: 60 soniya. Iltimos: 45 soniya. Batafsil qoidalar o‘yin ichida.
+Norasmiy do‘stlar loyihasi, rasmiy Exploding Kittens mahsuloti emas. Qoidalar manbasi: https://www.explodingkittens.com/pages/rules-kittens-party
