@@ -1,9 +1,15 @@
-# Citable motion ad
+# Citable motion ad — revision 2
 
-[Download the MP4](https://github.com/akbarjonabduqunduzov7-ux/Exploring-kittens/raw/refs/heads/main/ad-video/citable-ad-16x9.mp4)
+[Download the MP4](./citable-ad-16x9.mp4)
 
-Hyperframes render: 1920 × 1080, 16:9, 30 fps, 44.5 seconds. H.264 video with stereo AAC audio.
+46.5 seconds · 1920×1080 · 16:9 · 30 fps · H.264/AAC. Built in Hyperframes; the original script and supplied Brian S. narration are retained.
 
-This review export includes the original Brian S. voiceover and custom sound effects. The generated music is not included because its download into the build workspace remains blocked.
+Rebuilt around connected camera and object transitions: garage screen → websites → search; separate AI model/logo pages; search → prompt → answer; missing brand → Citable → product evidence; ranking rows → one answer → final brand hold.
 
-SHA-256: `8e2ce19ad3f6adb1b896267b72184dd142ae1cdba002ead68f68b07348a0e348`
+Product views selectively reconstruct the supplied Hues Boutique Hotel and Arabian Boutique Hotel records as separate named projects. Browser chrome, emails, localhost and RankAI branding are excluded.
+
+Audio includes a licensed instrumental bed and 25 retimed procedural SFX cues. See [music and sound credits](./CREDITS.md).
+
+Review: exported frames across the full cut and dense frame sequences around seven transitions; complete MP4 decode; audio loudness and peak measurement. This was frame-based and programmatic review, not direct continuous audiovisual playback.
+
+SHA-256: `6e1d2a710dbb64f2d03e8c09dcba232039bf2d76fa33bd740b886385e6981573`
