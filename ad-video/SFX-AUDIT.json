@@ -1,0 +1,162 @@
+{
+  "existing_cues": 26,
+  "method": "Audited original cue stems and decoded visual frames. Selective stem deltas applied to existing louder-music mix; no live listening assessment. Original AAC may leave a small residual at moved cues.",
+  "original_mix_gain": 0.8071493789275815,
+  "changes": [
+    {
+      "sound": "cursor-click",
+      "old_start": 10.828208,
+      "new_start": 10.828208,
+      "old_gain": 0.25,
+      "new_gain": 0.34,
+      "purpose": "Rank-one seat emphasis"
+    },
+    {
+      "sound": "tile-seat-b",
+      "old_start": 11.109354,
+      "new_start": 11.496,
+      "old_gain": 0.15,
+      "new_gain": 0.15,
+      "purpose": "Rank return seat"
+    },
+    {
+      "sound": "cursor-click",
+      "old_start": 25.098208,
+      "new_start": 25.595,
+      "old_gain": 0.24,
+      "new_gain": 0.43,
+      "purpose": "Submit button pulse at 25.60s"
+    },
+    {
+      "sound": "air-wide",
+      "old_start": 25.363438,
+      "new_start": 25.58,
+      "old_gain": 0.14,
+      "new_gain": 0.14,
+      "purpose": "Answer layout transition"
+    },
+    {
+      "sound": "cursor-click",
+      "old_start": 35.05,
+      "new_start": 35.545,
+      "old_gain": 0.24,
+      "new_gain": 0.4,
+      "purpose": "Product row highlight click"
+    },
+    {
+      "sound": "tile-seat-c",
+      "old_start": 35.229354,
+      "new_start": 35.6,
+      "old_gain": 0.15,
+      "new_gain": 0.12,
+      "purpose": "Selected product row settles"
+    },
+    {
+      "sound": "end-settle",
+      "old_start": 42.446146,
+      "new_start": 43.823,
+      "old_gain": 0.23,
+      "new_gain": 0.36,
+      "purpose": "End-card logo settles after orange wipe"
+    },
+    {
+      "sound": "tile-seat-a",
+      "start": 16.927604,
+      "added_gain": 0.055,
+      "purpose": "Slightly clearer AI model landing"
+    },
+    {
+      "sound": "tile-seat-b",
+      "start": 18.229354,
+      "added_gain": 0.055,
+      "purpose": "Slightly clearer AI model landing"
+    },
+    {
+      "sound": "tile-seat-c",
+      "start": 19.279354,
+      "added_gain": 0.055,
+      "purpose": "Slightly clearer AI model landing"
+    },
+    {
+      "sound": "tile-seat-a",
+      "start": 20.107604,
+      "added_gain": 0.055,
+      "purpose": "Slightly clearer AI model landing"
+    },
+    {
+      "sound": "tile-seat-b",
+      "start": 20.929354,
+      "added_gain": 0.055,
+      "purpose": "Slightly clearer AI model landing"
+    },
+    {
+      "sound": "cursor-click",
+      "start": 24.6,
+      "added_gain": 0.095,
+      "pitch_ratio": 1.15,
+      "purpose": "Quiet typed-question key tap"
+    },
+    {
+      "sound": "cursor-click",
+      "start": 24.68,
+      "added_gain": 0.07,
+      "pitch_ratio": 1.35,
+      "purpose": "Quiet typed-question key tap"
+    },
+    {
+      "sound": "cursor-click",
+      "start": 24.79,
+      "added_gain": 0.105,
+      "pitch_ratio": 1.05,
+      "purpose": "Quiet typed-question key tap"
+    },
+    {
+      "sound": "cursor-click",
+      "start": 24.88,
+      "added_gain": 0.08,
+      "pitch_ratio": 1.25,
+      "purpose": "Quiet typed-question key tap"
+    },
+    {
+      "sound": "cursor-click",
+      "start": 25.01,
+      "added_gain": 0.095,
+      "pitch_ratio": 1.15,
+      "purpose": "Quiet typed-question key tap"
+    },
+    {
+      "sound": "cursor-click",
+      "start": 25.08,
+      "added_gain": 0.07,
+      "pitch_ratio": 1.35,
+      "purpose": "Quiet typed-question key tap"
+    },
+    {
+      "sound": "cursor-click",
+      "start": 25.2,
+      "added_gain": 0.105,
+      "pitch_ratio": 1.05,
+      "purpose": "Quiet typed-question key tap"
+    },
+    {
+      "sound": "cursor-click",
+      "start": 25.31,
+      "added_gain": 0.08,
+      "pitch_ratio": 1.25,
+      "purpose": "Quiet typed-question key tap"
+    },
+    {
+      "sound": "tile-seat-c",
+      "start": 27.1,
+      "added_gain": 0.13,
+      "purpose": "Answer recommendation arrives"
+    },
+    {
+      "sound": "air-short",
+      "start": 43.55,
+      "added_gain": 0.14,
+      "purpose": "End-card orange wipe"
+    }
+  ],
+  "peak_dBFS": -1.6355105167069695
+}

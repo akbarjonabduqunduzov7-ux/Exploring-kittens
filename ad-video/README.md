@@ -1,4 +1,14 @@
-# Latest: polished cut with louder music
+# Latest: polished cut with music and SFX
+
+[Download the MP4 with updated SFX](./citable-polished-music-sfx.mp4)
+
+Audited 26 existing sound cues against the polished visuals. Retimed and strengthened the submit and product-row clicks, added quiet typed-question taps and a recommendation accent, gently reinforced model landings, and aligned the final logo accent with the end card. No paper or voice effects. The previous music lift and narration remain; the video stream is bit-for-bit unchanged.
+
+46.5 seconds, 1280×720, H.264/AAC. Full decode passed; −15.24 LUFS integrated, −1.55 dBTP. Cue timing checked using decoded visual frames and original audio stems; no direct listening review. [Detailed cue changes](./SFX-AUDIT.json).
+
+---
+
+# Previous: polished cut with louder music
 
 [Download the polished MP4](./citable-polished-louder-music.mp4)
 
