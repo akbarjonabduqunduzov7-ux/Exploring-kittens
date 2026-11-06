@@ -1,0 +1,5 @@
+# V7 motion rebuild
+
+Same20second square film, same13headlines and source imagery, noVO. Motion revision: opaque edge-on image substitutions replace crossfade ghosts; exact shell/cutaway registration at4.4167s; independently choreographed left/right earbuds with staggered arrival and controlled overshoot; parent product-camera push/pull separated from child movement; photographic crops reframe at a different rate from type; aperture reveals around product anchors replace repeated straight wipes on selected pages; folded type and independently translated glyphs; preparation/maintravel/correction stages; varied1.23–1.73secondpage durations and2.3secondendcard. TransitionSFXretimed and gains differentiated,continuousmusic.
+
+These are2D/2.5D treatments of real staticimages, not a new3D product shoot. Changing perspective does not reveal unseen physicalsurfaces. Full-speed aesthetic and subjectiveaudiojudgment remain humanreviewitems; technicalpass doesnot prove referencequality. No claim that every artdirection limitation is solved.
