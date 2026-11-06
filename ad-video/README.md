@@ -1,4 +1,14 @@
-# Latest: polished cut with music and SFX
+# Latest: seven modern website designs
+
+[Download the updated MP4](./citable-modern-websites.mp4) · [Scene preview](./modern-websites-preview.jpg) · [Seven design assets](./website-designs.zip)
+
+Replaced the seven website card surfaces with category-matched generated designs: accessories, café, hotel, design studio, florist, bakery, and gallery. Photographic imagery, distinct typography and palettes replace the repeated illustration style. Composited onto the supplied polished MP4 using tracked card geometry and occlusion order; original titles, background and circular exit retained. Fast entrance tracking and blur are reconstructed approximations because the editable source was unavailable.
+
+The existing narration, raised music and SFX audio stream is byte-identical. Only the 4–9 second video segment was re-encoded; all decoded frames outside that segment are identical to the prior MP4. Verified all 1,395 frames, continuous 30 fps timestamps, and a complete decode. Duration remains 46.5 seconds at 1280×720. Earlier versions remain below.
+
+---
+
+# Previous: polished cut with music and SFX
 
 [Download the MP4 with updated SFX](./citable-polished-music-sfx.mp4)
 
