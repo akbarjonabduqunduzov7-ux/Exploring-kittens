@@ -1,3 +1,11 @@
+# Latest: polished cut with louder music
+
+[Download the polished MP4](./citable-polished-louder-music.mp4)
+
+User-supplied polished visuals preserved without video recompression. Background music raised approximately 2 dB under narration, smoothly reaching 6 dB extra for the end card. Narration and SFX retained; original ending fade preserved. Measured true peak: −1.55 dBTP.
+
+---
+
 # Citable motion ad — revision 3
 
 [Download the MP4](./citable-ad-16x9.mp4) · [Before/after frames](./before-after.jpg) · [Comparison and research](./RESEARCH.md)
