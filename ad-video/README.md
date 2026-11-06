@@ -1,10 +1,10 @@
-# Latest: seven modern website designs
+# Latest: corrected playback export
 
-[Download the updated MP4](./citable-modern-websites.mp4) · [Scene preview](./modern-websites-preview.jpg) · [Seven design assets](./website-designs.zip)
+[Download the corrected MP4](./citable-modern-websites-fixed.mp4) · [Scene preview](./modern-websites-preview.jpg) · [Seven design assets](./website-designs.zip)
 
-Replaced the seven website card surfaces with category-matched generated designs: accessories, café, hotel, design studio, florist, bakery, and gallery. Photographic imagery, distinct typography and palettes replace the repeated illustration style. Composited onto the supplied polished MP4 using tracked card geometry and occlusion order; original titles, background and circular exit retained. Fast entrance tracking and blur are reconstructed approximations because the editable source was unavailable.
+All seven modern website designs are composited onto the polished footage. This export uses one continuous H.264 High Level 3.1 video encode, replacing the earlier joined streams that could fail in some players. The older citable-modern-websites.mp4 link also points to the corrected file.
 
-The existing narration, raised music and SFX audio stream is byte-identical. Only the 4–9 second video segment was re-encoded; all decoded frames outside that segment are identical to the prior MP4. Verified all 1,395 frames, continuous 30 fps timestamps, and a complete decode. Duration remains 46.5 seconds at 1280×720. Earlier versions remain below.
+Verified full decoding of 1,395 frames and 46.5-second timing. Chromium seeking and continuous playback through the website scene passed; all seven cards were visually checked in a browser screenshot. Uploaded GitHub blob bytes were downloaded and matched exactly. Original narration, music, and SFX audio stream is byte-identical. The full video has been re-encoded for compatibility, so unedited scenes are visually preserved rather than pixel-identical. Fast card entrances use reconstructed tracking and blur because the editable project was unavailable.
 
 ---
 
