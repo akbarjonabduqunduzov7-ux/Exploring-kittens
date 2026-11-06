@@ -1,4 +1,16 @@
-# Latest: corrected playback export
+# Latest: animated product-panel refinement
+
+[Download the refined MP4](./citable-refined-product.mp4) · [Preview both product scenes](./product-preview.jpg) · [Editable Hyperframes panel source](./product-hyperframes-source.zip)
+
+Refined the Hues overview and Arabian competitor scenes using the supplied screenshots' real data. Hues now shows four animated metrics, a growing 66.7% citation ring, and a cursor-driven missing-mention highlight. Arabian shows five staggered ranking bars and a growing six-competitor radar plot. The projects remain separate examples; no browser tabs, email or RankAI branding are included.
+
+Panel entrances, perspective, movement, project transition and exit fade follow the polished MP4. Internal animation was rebuilt in Hyperframes 0.9.15 and composited onto the tracked screen; the unavailable original project prevents exact recovery of its internal layers. Existing seven website designs, narration, music and SFX remain. AAC audio is byte-identical; the video uses one continuous H.264 High Level 3.1 encode for player compatibility.
+
+Validation: complete 1,395-frame decode, 46.506-second duration, Chromium seek checks and continuous playback through 33.2–39.2 seconds, browser screenshots of both panels, and a byte-for-byte check of the uploaded GitHub video. Sampled unedited scenes differ only slightly after re-encoding (mean pixel error below 2.4/255).
+
+---
+
+# Previous: corrected playback export
 
 [Download the corrected MP4](./citable-modern-websites-fixed.mp4) · [Scene preview](./modern-websites-preview.jpg) · [Seven design assets](./website-designs.zip)
 
